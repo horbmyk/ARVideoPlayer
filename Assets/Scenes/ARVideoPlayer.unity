@@ -434,7 +434,7 @@ GameObject:
   - component: {fileID: 226395422}
   - component: {fileID: 226395421}
   m_Layer: 0
-  m_Name: VideoProjectorcasing
+  m_Name: "VideoProjector\u0421asing"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
