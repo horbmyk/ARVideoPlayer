@@ -4,16 +4,16 @@ namespace ARVideoPlayer
 {
     public class SoundController : MonoBehaviour
     {
-        [SerializeField] private AudioSource _backgroundSound;
+        [SerializeField] private AudioSource _backGroundSound;
 
         public void PlaySound()
         {
-            _backgroundSound.Play();
+            _backGroundSound.Play();
         }
 
         public void StopSound()
         {
-            _backgroundSound.Stop();
+            _backGroundSound.Stop();
         }
     }
 }
